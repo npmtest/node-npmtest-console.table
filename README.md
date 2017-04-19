@@ -1,6 +1,6 @@
 # npmtest-console.table
 
-#### test coverage for  [console.table (v0.8.0)](https://github.com/bahmutov/console.table)  [![npm package](https://img.shields.io/npm/v/npmtest-console.table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-console.table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-console.table.svg)](https://travis-ci.org/npmtest/node-npmtest-console.table)
+#### basic test coverage for  [console.table (v0.8.0)](https://github.com/bahmutov/console.table)  [![npm package](https://img.shields.io/npm/v/npmtest-console.table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-console.table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-console.table.svg)](https://travis-ci.org/npmtest/node-npmtest-console.table)
 
 #### Adds console.table method that prints an array of objects as a table in console
 
